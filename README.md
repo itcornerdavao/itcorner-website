@@ -67,7 +67,7 @@
     </header>
     <main>
         <h2>Welcome to IT Corner</h2>
-        <p>Expert in Laptop & Desktop Repair, Upgrades, and Maintenance.</p>
+        <p>Expert in Laptop & Desktop Repair,Troubleshooting, Upgrades, and Maintenance.</p>
         <p>Email us at: <strong>itcornerdavao@gmail.com</strong></p>
         <a href="https://m.me/profile.php?id=61579153893932" class="btn">📩 Book Now via Messenger</a>
     </main>
